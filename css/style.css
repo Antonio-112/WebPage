@@ -58,5 +58,13 @@ footer{
     margin-top: 10px;   
     box-shadow: -7px -6px 20px 2px rgba(0, 0, 0, 0.399); 
     background-size: cover;
-    background-color: rgb(53, 54, 57);
+    background-color: rgba(53, 54, 57, 0.399);
+    visibility: visible;
+}
+footer:hover{
+    margin-top: 10px;   
+    box-shadow: -7px -6px 40px 4px rgba(0, 0, 0, 0.571); 
+    background-size: cover;
+    background-color: rgba(53, 54, 57, 0.399);
+
 }
